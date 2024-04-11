@@ -5,6 +5,8 @@
 #### Tools
 
 #### Education
+:computer: 2023.01 ~ 2023.12 SSAFY 9기 모바일 트랙
+:mortar_board: 2018.03 ~ 2022.02 영남대 컴퓨터공학과
 
 #### Algorithm (Baekjoon)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glowie)](https://solved.ac/glowie/)
