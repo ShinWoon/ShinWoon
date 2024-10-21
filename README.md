@@ -17,14 +17,13 @@
 ### Problem Solving (Baekjoon)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=glowie)](https://solved.ac/glowie/)
 
-
-
+<br>
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/ShinWoon"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/ShinWoon"
+  width="600"
+  height="300"
+/>
 </a>
 <!--
 **ShinWoon/ShinWoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
